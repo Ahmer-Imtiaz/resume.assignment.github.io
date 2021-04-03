@@ -1,0 +1,36 @@
+.green {
+  color: rgb(107, 189, 144);
+  font-size: 03ch;
+}
+
+.body {
+  background-color: rgb(27, 27, 27)
+}
+
+#headingabout {
+  color: white;
+}
+#Green{
+  color: rgb(84, 148, 84);
+}
+.Grey{
+  color: rgb(214, 214, 214);
+}
+#Para {
+  color: grey;
+}
+#service {
+  color: white;
+}
+#developer{
+  color: white;
+}
+#text {
+  color: grey;
+}
+#DataBAse {
+  color: white;
+}
+#SSl {
+  color: grey;
+}
